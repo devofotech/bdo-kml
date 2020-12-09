@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RVR.kml</name>
+	<Style id="line1">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Line Features</name>
+		<description>Line Features</description>
+		<Placemark>
+			<description><![CDATA[Unknown Line Type<BR><BR><B>OBJECTID</B> = 1<BR><B>SHAPE_Leng</B> = 1.15766499221e-002]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					103.73428923,1.573711863,0 103.733985135,1.57272391,0 103.7338247943,1.5721394015,0 103.7336702106,1.5715533442,0 103.7335213987,1.5709657947,0 103.733378373,1.57037681,0 103.7332627113,1.5698789092,0 103.7331513405,1.5693800311,0 103.7330442687,1.5688802127,0 103.732941504,1.568379491,0 103.7328681545,1.56797484,0 103.7327994408,1.5675693761,0 103.7327353719,1.5671631524,0 103.732675956,1.566756222,0 103.7325995629,1.5662530342,0 103.7325286521,1.5657490447,0 103.732463232,1.565244313,0 103.732283841,1.56316092,0 103.7322728497,1.5629884665,0 103.732257191,1.562816374,0 103.7322519879,1.5627583321,0 103.7322408036,1.5627011408,0 103.7322237582,1.5626454148,0 103.732201035,1.562591753,0 103.732167597,1.5625443435,0 103.7321306026,1.5624996537,0 103.7320902722,1.5624579498,0 103.732046846,1.56241948,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
